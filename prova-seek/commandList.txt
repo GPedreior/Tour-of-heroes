@@ -1,0 +1,4 @@
+baixar arquivo de downloado "first-app-lesso-00"
+
+- abrir o diretório "first-app-lesson-00" no terminal e axecutar o comando do npm install
+- rodar o comando ng serve. Se der erro de permissão de execução de scripts, algo semelhante, feche o vc code e abra-o novamente.
